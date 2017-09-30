@@ -1,0 +1,15 @@
+1- git clone: se introduce el link de git para clonar la carpeta
+2- cs (nombre de la carpeta) si se desea crear el archivo dentro de una 
+carpeta especifica.
+3- git status: realiza una actualizacion de los archivos que se encuentran
+en la carpeta (agregados/ cosas nuevas).
+4- git add . : se agregan los archivos (para agregar uno solo es: git add "
+nombredearchivo.txt")ej.
+5- si se realiza git status debe figurar nuevo archivo: nombre (en verde)
+6- git commit -m "agragamos index"(se deja nota): sirve para enviar archivo 
+a la pagina de git, si no esta logueado solicitara nombre de correo y 
+nombre de usuario. (git config --global user.email"correo",git config 
+--global user.name).
+7- nuevamente un git status para ver si se pudo cargar archivo
+8- git push: envia el archivo/actualizacion al github
+9- solitara nombre de usuario y la contraseña.

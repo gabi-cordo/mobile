@@ -11,6 +11,13 @@
 	
 }
 
+/* saco los estilos predeterminados al boton */
+.nav button{
+	background: none;
+	border: none;
+	cursor: pointer;
+}
+
 .nav-mobile{
 	position: absolute;
 	right: 30px;
